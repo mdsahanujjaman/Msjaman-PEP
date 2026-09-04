@@ -1,12 +1,20 @@
 <div align="center">
 
+<!-- Waving Capsule Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=042f2e,064e3b,065f46,047857,10b981&height=220&section=header&text=Msjaman-PEP%20%7C%20Placement%20Hub&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
+
+<!-- Header Banner Image -->
+<img src="./10_Resources/Assets/header_banner.png" alt="PEP Header Banner" width="100%" style="border-radius: 12px;" />
+
+<br/><br/>
+
 <!-- Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=750&lines=Msjaman-PEP+%7C+Placement+Preparation+Engine;38+C%2B%2B+Modules+%7C+17+DSA+Topics+%7C+Core+CS;Designed+%26+Maintained+by+MD+SAHANUJJAMAN" alt="Msjaman-PEP Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=750&lines=Placement+Own+Preparation+(PEP)+Journey;38+C%2B%2B+Modules+%7C+17+DSA+Topics+%7C+Core+CS;Created+%26+Maintained+by+MD+SAHANUJJAMAN" alt="Msjaman-PEP Header" />
 
 <br/>
 
-[![Maintainer](https://img.shields.io/badge/Developer-MD%20SAHANUJJAMAN-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsahanujjaman)
-[![Repository](https://img.shields.io/badge/Repo-Msjaman--PEP-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsahanujjaman/Msjaman-PEP)
+[![Developer Profile](https://img.shields.io/badge/Developer-MD%20SAHANUJJAMAN-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsahanujjaman)
+[![Repository](https://img.shields.io/badge/Repo-Msjaman--PEP-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsahanujjaman/Msjaman-PEP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsahanujjaman)
 [![Instagram](https://img.shields.io/badge/Instagram-msjaman17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msjaman17)
 
@@ -25,13 +33,25 @@
 
 ```yaml
 Developer: MD SAHANUJJAMAN
-Education: B.Tech in Information Technology (2023 - 2027)
+Academic Track: B.Tech in Information Technology (2023 - 2027)
 Institution: Lovely Professional University (LPU), Jalandhar
 Credential: Registered Pharmacist (WBSCTVESD) - SGP (2021 - 2023)
 Core Competencies: C++, Data Structures & Algorithms, Core CS, Software Engineering
 GitHub Profile: https://github.com/mdsahanujjaman
 PEP Repository: https://github.com/mdsahanujjaman/Msjaman-PEP
 ```
+
+---
+
+## 🎯 Readiness Gauges & Track Completion
+
+| Placement Track | Scope & Modules | Visual Completion Gauge | Status |
+| :--- | :---: | :--- | :---: |
+| 💻 **C++ Programming Track** | **38 Modules** | `[████████████████████]` **100%** | 🔥 Placement Ready |
+| 🧠 **DSA Problem Solving Track** | **17 Topics** | `[████████████████████]` **100%** | 🔥 Placement Ready |
+| 🗄️ **Core CS Fundamentals** | **6 Subjects** | `[████████████████████]` **100%** | 🔥 Placement Ready |
+| 🛠️ **Software Engineering & Git** | **8 Modules** | `[████████████████████]` **100%** | 🔥 Placement Ready |
+| 🎤 **Interview & HR Preparation** | **6 Modules** | `[████████████████████]` **100%** | 🔥 Placement Ready |
 
 ---
 
@@ -82,7 +102,7 @@ PEP Repository: https://github.com/mdsahanujjaman/Msjaman-PEP
 ### 🛠️ [04_Software-Engineering](./04_Software-Engineering)
 > **Engineering Tools & Best Practices**
 
-- 🌿 Git Branching, Rebasing & Merge Conflict Resolution
+- 🌿 Git Branching, Rebasing & Conflict Resolution
 - 🔌 REST API Architecture, HTTP & JSON
 - 🧼 SOLID Clean Code Principles & Testing
 - 🔗 [`Explore Software Engineering →`](./04_Software-Engineering)
@@ -180,5 +200,9 @@ Every study module across **01_CPP** and **02_DSA-Problem-Solving** follows a un
 **Created & Maintained by [MD SAHANUJJAMAN](https://github.com/mdsahanujjaman)**  
 *B.Tech Information Technology • Lovely Professional University (LPU)*  
 *Keep grinding, keep building, and earn your dream placement!* 🏆
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10b981,047857,065f46,064e3b,042f2e&height=120&section=footer" width="100%" />
 
 </div>
