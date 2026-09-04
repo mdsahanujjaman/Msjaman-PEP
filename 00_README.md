@@ -3,10 +3,10 @@
 # 🚀 Placement Own Preparation (PEP) Journey
 ### *The Ultimate All-in-One Placement Preparation Repository*
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-mdsahanujjaman-181717?style=for-the-badge&logo=github)](https://github.com/mdsahanujjaman)
+[![Maintainer](https://img.shields.io/badge/Maintainer-MD%20SAHANUJJAMAN-blue?style=for-the-badge&logo=github)](https://github.com/mdsahanujjaman)
+[![GitHub Repository](https://img.shields.io/badge/Repo-Msjaman--PEP-FF6B6B?style=for-the-badge&logo=github)](https://github.com/mdsahanujjaman/Msjaman-PEP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmdsahanujjaman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdsahanujjaman)
 [![Instagram](https://img.shields.io/badge/Instagram-msjaman17-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/msjaman17)
-[![X](https://img.shields.io/badge/X-@mdsahanujjaman0-000000?style=for-the-badge&logo=x)](https://x.com/mdsahanujjaman0)
 
 ![Placement Ready](https://img.shields.io/badge/Status-Placement%20Ready-brightgreen?style=for-the-badge&logo=target)
 ![Language](https://img.shields.io/badge/Core%20Language-C%2B%2B%2017%2F20-blue?style=for-the-badge&logo=cplusplus)
@@ -21,27 +21,32 @@
 
 ## 👤 Profile Summary
 
-- **Name:** MD SAHANUJJAMAN
-- **Degree:** B.Tech in Information Technology | Lovely Professional University (23-27)
-- **Background:** Registered Pharmacist (WBSCTVESD) - SGP (21-23)
-- **GitHub:** [@mdsahanujjaman](https://github.com/mdsahanujjaman)
+```yaml
+Student Name: MD SAHANUJJAMAN
+Degree & Branch: B.Tech in Information Technology (2023 - 2027)
+Institution: Lovely Professional University (LPU), Jalandhar
+Professional Credential: Registered Pharmacist (WBSCTVESD) - SGP (2021 - 2023)
+Core Competencies: C++, Data Structures & Algorithms, Core CS, Software Engineering
+GitHub Profile: https://github.com/mdsahanujjaman
+Dedicated PEP Repo: https://github.com/mdsahanujjaman/Msjaman-PEP
+```
 
 ---
 
 ## 📌 Quick Navigation Dashboard
 
-| Section | Focus Area | Contents | Quick Link |
-| :--- | :--- | :--- | :---: |
-| 💻 **01_CPP** | C++ Programming | 38 Structured Modules (Basics to Advanced STL) | [`Explore C++`](./01_CPP) |
-| 🧠 **02_DSA-Problem-Solving** | Data Structures & Algo | 17 Topic Modules + Mock Coding | [`Explore DSA`](./02_DSA-Problem-Solving) |
-| 🗄️ **03_CS-Fundamentals** | Core CS Knowledge | OOP, DBMS, SQL, OS, CN & System Design | [`Explore CS`](./03_Computer-Science-Fundamentals) |
-| 🛠️ **04_Software-Engineering** | Software Tools & Best Practices | Git, GitHub, REST API, Clean Code, Testing | [`Explore SE`](./04_Software-Engineering) |
-| 💼 **05_Projects** | Real-World & Capstones | Mini, C++, Full-Stack & Health Horizon | [`Explore Projects`](./05_Projects) |
-| 📄 **06_Career** | Resume & Personal Brand | Resume, LinkedIn, GitHub & Portfolio | [`Explore Career`](./06_Career) |
-| 🎤 **07_Interview-Prep** | Interview Mastery | HR, Technical, Aptitude, Communication & Mocks | [`Explore Prep`](./07_Interview-Preparation) |
-| 🌟 **08_Personality-Development**| Soft Skills & Body Language | Communication, Body Language & Confidence | [`Explore Soft Skills`](./08_Personality-Development) |
-| ⚡ **09_CheatSheets** | Quick Revision | C++ STL, DSA Complexity, SQL & Git | [`Explore CheatSheets`](./09_CheatSheets) |
-| 📚 **10_Resources** | Curated Study Material | Books, CheatSheets, Images, Links & PDFs | [`Explore Resources`](./10_Resources) |
+| Icon | Track Section | Focus Area | Modules / Topics | Quick Action |
+| :---: | :--- | :--- | :---: | :---: |
+| 💻 | **01_CPP** | C++ Programming (Basics to Advanced STL) | **38 Modules** | [`Explore C++`](./01_CPP) |
+| 🧠 | **02_DSA-Problem-Solving** | Data Structures & Algorithms Suchipatra | **17 Topics** | [`Explore DSA`](./02_DSA-Problem-Solving) |
+| 🗄️ | **03_CS-Fundamentals** | Core CS (DBMS, OS, CN, SQL, OOP, System Design) | **6 Subjects** | [`Explore CS`](./03_Computer-Science-Fundamentals) |
+| 🛠️ | **04_Software-Engineering** | Software Tools & Best Practices (Git, REST, Testing) | **8 Modules** | [`Explore SE`](./04_Software-Engineering) |
+| 💼 | **05_Projects** | Real-World & Capstone Portfolio Projects | **Projects** | [`Explore Projects`](./05_Projects) |
+| 📄 | **06_Career** | ATS Resume, LinkedIn, Portfolio & GitHub Profile | **5 Modules** | [`Explore Career`](./06_Career) |
+| 🎤 | **07_Interview-Prep** | Technical, HR, Aptitude & Mock Interviews | **6 Modules** | [`Explore Prep`](./07_Interview-Preparation) |
+| 🌟 | **08_Personality-Development**| Soft Skills, Body Language & Confidence | **3 Modules** | [`Explore Soft Skills`](./08_Personality-Development) |
+| ⚡ | **09_CheatSheets** | Rapid Revision (C++ STL, Complexity, SQL, Git) | **4 Sheets** | [`Explore CheatSheets`](./09_CheatSheets) |
+| 📚 | **10_Resources** | Books, Curated Playlists, PDFs & Online Links | **Master List** | [`Explore Resources`](./10_Resources) |
 
 ---
 
@@ -74,7 +79,7 @@ Msjaman-PEP/
 
 ## 🎯 Standard Module Structure
 
-Every study folder across **01_CPP** and **02_DSA-Problem-Solving** follows a uniform layout:
+Every study module across **01_CPP** and **02_DSA-Problem-Solving** is standardized:
 
 ```text
 📁 Module-Folder/
@@ -91,19 +96,20 @@ Every study folder across **01_CPP** and **02_DSA-Problem-Solving** follows a un
 
 ---
 
-## 💡 Daily Workflow Rules
+## 💡 Daily Study System & Rules
 
-1. **Learn & Note:** Read concepts and record findings in `Notes.md`.
-2. **Implement:** Write clean C++ code in `Examples.cpp` & `Practice.cpp`.
-3. **Analyze:** Record any mistakes or edge cases in your journal.
-4. **Log Progress:** Mark completed topics in `02_PROGRESS_TRACKER.md`.
-5. **Revise:** Periodically review `CheatSheet.md` and `Revision.md`.
+1. **Learn & Document:** Read core theory and record key findings in `Notes.md`.
+2. **Code & Solve:** Write clean, modular C++ solution in `Examples.cpp` & `Practice.cpp`.
+3. **Analyze Errors:** Record edge cases and mistakes in `03_DAILY_JOURNAL.md`.
+4. **Log Progress:** Check off completed topics in `02_PROGRESS_TRACKER.md`.
+5. **Revise Periodically:** Conduct rapid reviews using `CheatSheet.md` and `Revision.md`.
 
 ---
 
 <div align="center">
 
-**Created by [MD SAHANUJJAMAN](https://github.com/mdsahanujjaman) • B.Tech IT (LPU)**  
+**Created & Maintained by [MD SAHANUJJAMAN](https://github.com/mdsahanujjaman)**  
+*B.Tech Information Technology • Lovely Professional University (LPU)*  
 *Keep grinding, keep building, and earn your dream placement!* 🏆
 
 </div>
